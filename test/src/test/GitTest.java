@@ -6,5 +6,6 @@ public class GitTest {
 		// Justin is a faggot
 		// mark is a faggot too
 		//commit 1
+		//commit 2
 	}
 }
