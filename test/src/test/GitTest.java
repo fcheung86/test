@@ -7,5 +7,7 @@ public class GitTest {
 		// mark is a faggot too
 		//commit 1
 		//commit 2
+
+		System.out.println("hmmmmm testing push");
 	}
 }
